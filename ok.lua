@@ -1,8 +1,6 @@
--- okokok folder on the official GitHub repository classic something
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
+-- You mightve bypassed the key system and you can see all its code... BUT GOOD LUCK BYPASSING THE 50 FAILSAFES INSID ETHE EVEN MORE ENCRYPTED CODE  
+ 
+--alr
 
 local g = Instance.new("ScreenGui")
 local ImageLabel = Instance.new("ImageLabel")
